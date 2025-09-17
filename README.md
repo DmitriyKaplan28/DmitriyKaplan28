@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 📊 My stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=DmitriyKaplan28&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **DmitriyKaplan28/DmitriyKaplan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
